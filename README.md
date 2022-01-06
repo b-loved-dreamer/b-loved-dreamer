@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @b-loved-dreamer
-- 👀 I’m interested in learning as much as possible
+- 👀 I’m interested in learning more. 
 - 🌱 I’m currently working on Cloud-AI enabled services
 - 💞️ I’m looking to collaborate on projects that leverage AI breakthroughs
 - 📫 How to reach me: https://franklinnunez.com/
